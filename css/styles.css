@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Sacramento&display=swap');
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    margin: 3.125rem auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+span{
+    text-decoration: underline;
+}
+
+.p1{
+    font-size: 1.8rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.pp1{
+    color: #40514E;
+}
+pp3{
+    margin: 1rem;
+}
+
+.top-container{
+    background-color: #FEF5ED;
+    position: relative;
+    padding-top: 6.25rem;
+    margin-bottom: 2rem;
+}
+
+.middle-container{
+    margin: 5rem auto 5rem;
+    
+
+}
+.bottom-container{
+   margin-top: 12rem;
+   line-height: 2;
+   background-color: #66BFBF;
+   padding: 3.125rem 0 1.25rem;
+}
+
+
+.bc1{
+    position: absolute;
+    left: 18.75rem;
+    bottom: 20rem;
+}
+.bc2{
+    position: absolute;
+    right: 23.125rem;
+    top: 3.625rem;
+}
+.skills{
+    margin-top:5rem;
+}
+
+.skill-row{
+    margin: 6.25rem auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.img1{
+    width: 25%;
+    float: left;
+    margin-right: 1.25rem;
+}
+.img2{
+    width: 25%;
+    float: right;
+    margin-left: 1.25rem;
+}
+.profile{
+    width: 50%;
+    margin: auto;
+    color: #40514E;
+    line-height: 2;
+}
+hr{
+    border-style: dotted;
+    border-top: none;
+    width: 3rem;
+    border-color: #f3f1f1;
+    border-width: 0.5rem;
+    margin: 5rem auto;
+}
+.contact-me{
+    position: relative;
+    width: 50%;
+    margin: 4rem auto 4rem auto;
+    line-height: 2;
+}
+.btn{
+    position: absolute;
+    top: 17rem;
+    left: 19rem;
+}
+
+.btn {
+    background:#11999E;
+    background-image: linear-gradient(to bottom, #1bacb1, #117f83);
+    border-radius: 1.75rem;
+    
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 1rem;
+    padding: 0 1rem;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #16bac0;
+   
+    background-image: linear-gradient(to bottom, #14cbd1, #0eb5bb);
+    text-decoration: none;
+  }
+
+  .footer-link{
+      color: #11999E;
+      margin: 0.625rem 1.25rem;
+      text-decoration: solid;
+  }
+  a:hover{
+      text-decoration: underline;
+  }
+  .copyright{
+      color: #eaf6f6;
+      font-size: 0.75rem;
+      padding: 1.25rem 0;
+  }
