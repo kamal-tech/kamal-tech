@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kamal-tech
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me no way
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React
+- 📫 How to reach me akashdeep746726@gmail.com
 
 <!---
 kamal-tech/kamal-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
